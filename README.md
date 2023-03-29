@@ -34,3 +34,19 @@ Additionally you will need to connect your 2nd matrix to the 1st (if building fu
 - CLK to CLK
 
 I used those pins and SPI 0 but you can change this but will need to change it in the code when you pass the SPI(0) to the max7219_matrix class.
+
+# Gotchas
+
+The plastic that focuses the infra red radiation comes off so you can see the VCC and GND labels.
+
+There is a jumper that needs to be set, this held us up as it was factory set to Single Trigger. We had to move it from 'L' to 'H' to change it to repeat trigger. Made a big difference as before the change the digital out was flipping on and off like crazy.
+
+<img src="https://user-images.githubusercontent.com/54982599/228584192-659a1f08-6603-4d6e-8ad1-143a6fc7e367.jpg" width='500' height='400'>
+
+There are 2 adjustable dials, the center dial adjusts detection range supposedly counter clockwise to increase the range but it seemed to do the opposite on mine.
+
+<img src="https://user-images.githubusercontent.com/54982599/228584667-90c00bb3-d3c8-4b1a-922d-f884d8fe4288.jpg" width='500' height='400'>
+
+The other dial adjusts the timer I wanted this to be as short as possible thus turned fully counter clockwise.
+
+
