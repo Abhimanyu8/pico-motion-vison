@@ -1,5 +1,9 @@
 # pico-motion-vison
  A raspberry pico demonstration of human-robot interaction
+ 
+ 
+<img src="https://user-images.githubusercontent.com/54982599/228587986-6ad4d1ca-18b1-4376-b3a4-323dcc04c5e6.gif" width="400" height="250">
+
 
 ## Parts List
 - Microcontroller compatible with MicroPython (I've used an RP2040 Pico)
@@ -48,5 +52,4 @@ There are 2 adjustable dials, the center dial adjusts detection range supposedly
 <img src="https://user-images.githubusercontent.com/54982599/228584667-90c00bb3-d3c8-4b1a-922d-f884d8fe4288.jpg" width='500' height='400'>
 
 The other dial adjusts the timer I wanted this to be as short as possible thus turned fully counter clockwise.
-
 
