@@ -1,5 +1,5 @@
 # pico-motion-vison
- A raspberry pico demonstration of human-robot interaction
+ A pico-based human-robot interaction platform
  
  
 <img src="https://user-images.githubusercontent.com/54982599/228587986-6ad4d1ca-18b1-4376-b3a4-323dcc04c5e6.gif" width="400" height="250">
