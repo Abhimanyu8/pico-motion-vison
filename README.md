@@ -43,7 +43,7 @@ I used those pins and SPI 0 but you can change this but will need to change it i
 
 The plastic that focuses the infra red radiation comes off so you can see the VCC and GND labels.
 
-There is a jumper that needs to be set, this held us up as it was factory set to Single Trigger. We had to move it from 'L' to 'H' to change it to repeat trigger. Made a big difference as before the change the digital out was flipping on and off like crazy.
+There is a jumper that needs to be set, this held us up as it was factory set to Single Trigger. I had to move it from 'L' to 'H' to change it to repeat trigger. Made a big difference as before the change the digital out was flipping on and off like crazy.
 
 <img src="https://user-images.githubusercontent.com/54982599/228584192-659a1f08-6603-4d6e-8ad1-143a6fc7e367.jpg" width='500' height='400'>
 
