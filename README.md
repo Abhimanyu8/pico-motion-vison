@@ -16,7 +16,7 @@
 A body will emit thermal electromagnetic radiation, this is picked up by the plastic lens of a HC-SR501 and a pyroelectric sensor translates this into an electric current. The PIR will look for any change in the current, hence a change in the thermal electromagnetic radiation and set it's output pin to high if there is a change.
 </p>
 <p>
-If a body/heat source sets this off and remains perfectly still it will measure this as the normal state after a certain time (configurable via a dial). If the body moves there is a change and the pin is held high again, which is then used to manupilate the movement of the eyes in the 8x8 matrix. 
+If a body/heat source sets this off and remains perfectly still it will measure this as the normal state after a certain time (configurable via a dial). If the body moves there is a change and the pin is held high again, which is then used to manupilate the 8x8 led matrix to track the movements of that body.
 </p>
 
 ## Setup
