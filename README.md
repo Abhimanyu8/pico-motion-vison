@@ -33,4 +33,4 @@ Additionally you will need to connect your 2nd matrix to the 1st (if building fu
 - CS to CS
 - CLK to CLK
 
-We use those pins and SPI 0 but you can change this but will need to change it in the code when you pass the SPI(0) to the max7219_matrix class.
+I used those pins and SPI 0 but you can change this but will need to change it in the code when you pass the SPI(0) to the max7219_matrix class.
